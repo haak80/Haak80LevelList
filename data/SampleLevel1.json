@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["riot", "Michigun", "weoweoteo", "ggboy", "etzer", "asonic", "vermillon", "crack"],
+    "verifier": "Haak80",
+    "verification": "https://youtu.be/XFwcwIyOWgE?si=RDY2t9dr_M1hESnj",
+    "percentToQualify": 100,
+    "password": "idk",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "riot",
+            "link": "https://youtu.be/twTw4fjT0ik?si=H7l5uCPHpEiEKXLa",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         }
     ]
 }
